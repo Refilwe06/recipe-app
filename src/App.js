@@ -6,7 +6,7 @@ import RecipeDetail from './components/RecipeDetail';
 import { Container, Navbar, Nav } from 'react-bootstrap';
 import spaghettiImg from './assets/spaghetti.jpg';
 import chickenCurryImg from './assets/chicken-curry.jpg';
-
+import beefCurryImg from './assets/beef-curry.jpg'
 const App = () => {
     const [recipes, setRecipes] = useState([
         {
@@ -27,10 +27,10 @@ const App = () => {
 
         {
             title: 'Beef Curry',
-            shortDescription: 'beef curry and serve with a hunk of naan bread to mop up the delicious juices. If you prefer it less spicy, simply add less chilli powder',
+            shortDescription: 'Beef curry and serve with a hunk of naan bread to mop up the delicious juices.',
             ingredients: ['2 tbsp oil', '500g diced braising steak', '1 tbsp butter', '1 large onion, chopped',' 2 garlic cloves, crushed'    ],
             preparationSteps: '1. Cook chicken. 2. Add spices. 3. Add tomatoes and cream. 4. Simmer.',
-            picture: chickenCurryImg,
+            picture: beefCurryImg,
         },
 
 
