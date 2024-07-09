@@ -28,8 +28,8 @@ const App = () => {
         {
             title: 'Beef Curry',
             shortDescription: 'Beef curry and serve with a hunk of naan bread to mop up the delicious juices.',
-            ingredients: ['2 tbsp oil', '500g diced braising steak', '1 tbsp butter', '1 large onion, chopped',' 2 garlic cloves, crushed'    ],
-            preparationSteps: '1. Cook chicken. 2. Add spices. 3. Add tomatoes and cream. 4. Simmer.',
+            ingredients: ['2 tbsp oil', '500g diced braising steak', '1 tbsp butter', '1 large onion, chopped',' 2 garlic cloves, crushed', '1 thumb sized piece of ginger must be finely grated', '¼ tsp hot Chili Powder', '1 tsp turmeric', '2 tsp ground coriander', '3 cardamom pods, crushed', '400g can chopped tomatoes', '300ml beef stock', '1 tsp sugar', '2 tsp garam masala',],
+            preparationSteps: '1. Cook Beef. 2. Add spices. 3. Add tomatoes and cream. 4. Simmer.',
             picture: beefCurryImg,
         },
 
