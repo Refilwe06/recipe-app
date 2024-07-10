@@ -8,7 +8,7 @@ import spaghettiImg from './assets/spaghetti.jpg';
 import chickenCurryImg from './assets/chicken-curry.jpg';
 import beefCurryImg from './assets/beef-curry.jpg'
 const App = () => {
-    const [recipes, setRecipes] = useState([
+    const [recipes] = useState([
         {
             title: 'Spaghetti Carbonara',
             shortDescription: 'A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.',
