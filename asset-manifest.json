@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recipe-app/static/css/main.6fff7e8d.css",
-    "main.js": "/recipe-app/static/js/main.58b53337.js",
+    "main.js": "/recipe-app/static/js/main.ec2f3a77.js",
     "static/media/beef-curry.jpg": "/recipe-app/static/media/beef-curry.e1ef28de5ca5281d36cd.jpg",
     "static/media/chicken-curry.jpg": "/recipe-app/static/media/chicken-curry.6b838343048a97c6046f.jpg",
     "index.html": "/recipe-app/index.html",
     "main.6fff7e8d.css.map": "/recipe-app/static/css/main.6fff7e8d.css.map",
-    "main.58b53337.js.map": "/recipe-app/static/js/main.58b53337.js.map"
+    "main.ec2f3a77.js.map": "/recipe-app/static/js/main.ec2f3a77.js.map"
   },
   "entrypoints": [
     "static/css/main.6fff7e8d.css",
-    "static/js/main.58b53337.js"
+    "static/js/main.ec2f3a77.js"
   ]
 }
